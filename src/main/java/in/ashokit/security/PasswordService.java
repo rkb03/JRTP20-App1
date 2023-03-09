@@ -30,4 +30,8 @@ public class PasswordService {
 		String decode = PasswordService.decode(encode);
 		System.out.println(decode);
 	}
+	
+	//changes for BUG-121
+	String name ="raju";
+	
 }
