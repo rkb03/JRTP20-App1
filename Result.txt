@@ -1,0 +1,3 @@
+Success = Data Saved Successfully
+
+Error = Some Error Occured
