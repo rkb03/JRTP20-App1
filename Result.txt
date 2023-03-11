@@ -1,3 +1,7 @@
 Success = Data Saved Successfully
 
 Error = Some Error Occured
+id=101
+name=raju
+salary=10000
+address=hyd
